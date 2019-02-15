@@ -1,0 +1,69 @@
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\csc.exe
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\vbc.exe
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\VBCSCompiler.exe
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\17-action link.dll.config
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\17-action link.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\17-action link.pdb
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Antlr3.Runtime.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\EntityFramework.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\EntityFramework.SqlServer.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Newtonsoft.Json.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Owin.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.Helpers.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.Mvc.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.Optimization.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.Razor.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.WebPages.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.WebPages.Razor.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\WebGrease.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.Helpers.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.Mvc.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.Optimization.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.Razor.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.WebPages.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\System.Web.WebPages.Razor.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Antlr3.Runtime.pdb
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Newtonsoft.Json.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\EntityFramework.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\EntityFramework.SqlServer.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\obj\Debug\17-action link.csprojResolveAssemblyReference.cache
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\obj\Debug\17-action link.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\CourseASP test\17-action link\17-action link\obj\Debug\17-action link.pdb
